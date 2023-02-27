@@ -1,0 +1,2 @@
+PRINT (22 * 3) / 2 + 555 - 66
+PRINT "SupremeDeity says hello"
